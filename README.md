@@ -1,5 +1,40 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
+</picture>
+
+<br><br>
+
+<a href="https://github.com/adamkoji">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Divyansh+Verma+-+Full+Stack+%26+Systems+Engineer;Building+Scalable+APIs+%2F+Distributed+Caching+%2F+Reactive+UIs;Python+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Docker" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://linkedin.com/in/divyanshverma153v" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/divyansh153" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/artist.adish" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram">
+</a>&nbsp;&nbsp;
+<a href="mailto:vermadivyansh703@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=adamkoji&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+
+</div>
+
+<div align="center">
+
   # ⚡ Hi there, I'm Divyansh Verma 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Engineer;Building+Scalable+APIs+%26+Caching+Layers;React+%7C+Python+%7C+Node.js+%7C+Java;CS+Graduate+%40+BML+Munjal+University)](https://git.io/typing-svg)
