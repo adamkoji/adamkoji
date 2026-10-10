@@ -90,10 +90,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[LLM Semantic Cache](https://github.com/adamkoji)** | `FastAPI` `Redis` `ChromaDB` `Docker` | Reduced expensive LLM inference API calls by **76%** through hybrid exact-match storage and vector similarity lookups. |
-| **[Torpedo Learning](https://torpedolearning.com/)** | `React` `Laravel` `REST APIs` `SQLite` | Multi-role LMS platform connecting student pathways with automated recruiter sourcing and competency evaluation. |
-| **[Rail Madad Management](https://github.com/adamkoji)** | `Python/Flask` `MySQL` `ML Microservices` | Real-time incident ticketing system with composite database indexing, reducing ticket query latency under high load. |
-| **[Decoupled CMS Portfolio](https://beenutaneja.com/)** | `React` `Laravel 11` `Filament V3` | Headless dynamic portfolio with session-gated 2FA (email OTP) and real-time administrative content controls. |
+| **[LLM Semantic Cache](https://github.com/adamkoji/LLM-semantic-cache)** | `FastAPI` `Redis` `ChromaDB` `Docker` `Python` | Reduced expensive LLM inference API calls by **76%** using hybrid exact-match storage and vector similarity search. |
+| **[Torpedo Learning](https://torpedolearning.com/)** | `Laravel 11` `Blade` `Hotwire Turbo` `Docker` `SQLite (WAL)` | Multi-role LMS featuring in-browser CodeMirror IDE, sandboxed Docker container code execution, and zero-flicker Turbo transitions. |
+| **[Decoupled CMS Portfolio](https://beenutaneja.com/)** | `React 18` `Vite` `Laravel 11` `Filament V3` `REST API` | Headless dynamic portfolio powered by a Filament V3 admin portal, session-gated 2FA (email OTP), and a decoupled client. |
+| **[Rail Madad Management](https://github.com/adamkoji/)** | `Python/Flask` `MySQL` `JavaScript` `ML Microservices` | Real-time incident ticketing system with composite B-Tree query indexing and automated ML triage pipelines. |
 
 ---
 
