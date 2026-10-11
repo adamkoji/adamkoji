@@ -28,7 +28,6 @@
 - 🎓 **B.Tech in Computer Science & Engineering** from **BML Munjal University** (Batch of 2026).
 - 💼 **Former Software Dev Intern** at **Bharti Airtel** (Android Jetpack Compose, MVVM, and low-latency API sync) & **Getting Roots** (Decoupled Full-Stack Web & CMS).
 - 🚀 **Core Interests:** Building decoupled web applications, high-throughput microservices, sub-second API optimization, and distributed caching architectures.
-- 🛠️ Currently developing **[Torpedo Learning](https://torpedolearning.com/)** (an automated LMS & candidate evaluation platform).
 - 💬 Ask me about **React, Node.js, Python, Redis caching, or SQL query optimization**.
 
 ---
